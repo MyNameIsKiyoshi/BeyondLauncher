@@ -14,7 +14,7 @@
             "id": "EdenMine",
             "name": "EdenMine Production Server",
             "description": "Official BeyondSurvival Server.",
-            "icon": "https://github.com/MyNameIsKiyoshi/BeyondLauncher/blob/main/images/server-prod.png",
+            "icon": "https://raw.githubusercontent.com/MyNameIsKiyoshi/BeyondLauncher/main/images/server-prod.png",
             "version": "40.0.1",
             "address": "mc.edenmine.eu:25565",
             "minecraftVersion": "1.19.3",
